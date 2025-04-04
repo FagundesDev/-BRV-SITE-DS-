@@ -10,12 +10,6 @@ A **BRV NETWORK** é uma central digital moderna que disponibiliza **cursos prof
 
 🔗 Acesse o site em: [https://seu-usuario.github.io/brv-network](https://seu-usuario.github.io/brv-network)
 
-> Substitua `seu-usuario` pela sua conta GitHub após o deploy.
-
----
-
-## 📁 Estrutura do Projeto
-
 
 ---
 
